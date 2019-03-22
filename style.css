@@ -1,0 +1,12 @@
+#h1{
+	position:fixed;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	font-size:50px;
+	color:blue;
+}
+body{
+	border: 5px dotted blue;
+	background-color:#66a0ff;
+}
